@@ -71,4 +71,3 @@ function products(){
 } 
 
 products();
-myfunc();
